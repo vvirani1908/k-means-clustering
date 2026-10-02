@@ -1,6 +1,6 @@
 # K-Means Clustering Assignment
 
-This repository contains the completed work for the K-means clustering assignment.
+This repository contains the completed work for the machine-learning capabilities assignment.
 
 ## Deliverables
 
@@ -14,6 +14,18 @@ This repository contains the completed work for the K-means clustering assignmen
 | Part | Topic | Notebook | Video |
 |---|---|---|---|
 | 1 | K-means clustering and variations | [01_kmeans_clustering.ipynb](notebooks/01_kmeans_clustering.ipynb) | [Watch video](https://youtu.be/cxHYL6YLP_c) |
+| 2 | AutoGluon capabilities landscape | [02_autogluon_capabilities_tour.ipynb](notebooks/02_autogluon_capabilities_tour.ipynb) | [Watch video](https://youtu.be/Ear5T0tX-PI) |
+
+## Assignment parts
+
+| Part | Topic | Status |
+|---|---|---|
+| 1 | K-means clustering and variations | Completed |
+| 2 | AutoGluon capabilities landscape | Completed |
+| 3 | AutoGluon end-to-end ML with metrics | Pending |
+| 4 | NVIDIA RAPIDS CPU/GPU comparison | Pending |
+| 5 | PyCaret capabilities landscape | Pending |
+| 6 | PyCaret MLOps | Pending |
 
 ## What the notebook covers
 
@@ -42,10 +54,11 @@ The submitted notebook was executed in an independent Google Colab runtime:
 
 The RAPIDS section records the CPU fallback because cuML was not installed in that runtime. The full GPU/CPU comparison is a separate assignment part.
 
-## Video
+## Videos
 
 The video title is:
 
 **K-Means Clustering Explained: From Scratch to Real-World Applications**
 
-[Watch the Part 1 video](https://youtu.be/cxHYL6YLP_c)
+- Part 1: [K-means clustering and variations](https://youtu.be/cxHYL6YLP_c)
+- Part 2: [AutoGluon capabilities landscape](https://youtu.be/Ear5T0tX-PI)
