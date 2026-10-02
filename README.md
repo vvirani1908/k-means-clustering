@@ -27,7 +27,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 5 | PyCaret capabilities landscape | Pending |
 | 6 | PyCaret MLOps | Pending |
 
-## What the notebook covers
+## Part 1 — K-means clustering and variations
 
 - K-means fundamentals and the SSE objective
 - Lloyd's algorithm implemented from scratch
@@ -43,9 +43,22 @@ This repository contains the completed work for the machine-learning capabilitie
 - Text, image, and embedding clustering
 - Product quantization and GPU K-means context
 
+## Part 2 — AutoGluon capabilities landscape
+
+- Binary and multiclass classification
+- Regression and quantile regression
+- Rare-event fraud detection with cost-aware thresholds
+- Time-series forecasting
+- Text and tabular modeling
+- Image classification
+- Sentence embeddings and semantic search
+- Tabular foundation models
+- Feature importance and SHAP explanations
+- Model saving, deployment, and latency comparison
+
 ## Verification
 
-The submitted notebook was executed in an independent Google Colab runtime:
+The K-means notebook was executed in an independent Google Colab runtime:
 
 - 78 code cells executed
 - 78 code cells contain saved outputs
@@ -54,11 +67,15 @@ The submitted notebook was executed in an independent Google Colab runtime:
 
 The RAPIDS section records the CPU fallback because cuML was not installed in that runtime. The full GPU/CPU comparison is a separate assignment part.
 
+The AutoGluon notebook was also executed in Google Colab:
+
+- 84 code cells executed
+- All code cells contain saved outputs
+- The notebook has no saved error outputs
+- The image-classification report was corrected to format text and numeric columns separately
+- The MITRA foundation-model section records a memory fallback rather than claiming a completed run
+
 ## Videos
-
-The video title is:
-
-**K-Means Clustering Explained: From Scratch to Real-World Applications**
 
 - Part 1: [K-means clustering and variations](https://youtu.be/cxHYL6YLP_c)
 - Part 2: [AutoGluon capabilities landscape](https://youtu.be/Ear5T0tX-PI)
