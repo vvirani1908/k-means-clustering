@@ -13,7 +13,7 @@ This repository contains the completed work for the K-means clustering assignmen
 
 | Part | Topic | Notebook | Video |
 |---|---|---|---|
-| 1 | K-means clustering and variations | [01_kmeans_clustering.ipynb](notebooks/01_kmeans_clustering.ipynb) | [Watch video](https://youtu.be/JfZ7wmqfODs) |
+| 1 | K-means clustering and variations | [01_kmeans_clustering.ipynb](notebooks/01_kmeans_clustering.ipynb) | [Watch video](https://youtu.be/cxHYL6YLP_c) |
 
 ## What the notebook covers
 
@@ -48,4 +48,4 @@ The video title is:
 
 **K-Means Clustering Explained: From Scratch to Real-World Applications**
 
-[Watch the Part 1 video](https://youtu.be/JfZ7wmqfODs)
+[Watch the Part 1 video](https://youtu.be/cxHYL6YLP_c)
