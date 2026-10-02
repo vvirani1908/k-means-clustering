@@ -15,6 +15,7 @@ This repository contains the completed work for the machine-learning capabilitie
 |---|---|---|---|
 | 1 | K-means clustering and variations | [01_kmeans_clustering.ipynb](notebooks/01_kmeans_clustering.ipynb) | [Watch video](https://youtu.be/cxHYL6YLP_c) |
 | 2 | AutoGluon capabilities landscape | [02_autogluon_capabilities_tour.ipynb](notebooks/02_autogluon_capabilities_tour.ipynb) | [Watch video](https://youtu.be/Ear5T0tX-PI) |
+| 3 | AutoGluon end-to-end ML with metrics | [03_autogluon_zero_to_hero.ipynb](notebooks/03_autogluon_zero_to_hero.ipynb) | [Watch video](https://youtu.be/duZB_augdOI) |
 
 ## Assignment parts
 
@@ -22,7 +23,7 @@ This repository contains the completed work for the machine-learning capabilitie
 |---|---|---|
 | 1 | K-means clustering and variations | Completed |
 | 2 | AutoGluon capabilities landscape | Completed |
-| 3 | AutoGluon end-to-end ML with metrics | Pending |
+| 3 | AutoGluon end-to-end ML with metrics | Completed; video added |
 | 4 | NVIDIA RAPIDS CPU/GPU comparison | Pending |
 | 5 | PyCaret capabilities landscape | Pending |
 | 6 | PyCaret MLOps | Pending |
@@ -56,6 +57,17 @@ This repository contains the completed work for the machine-learning capabilitie
 - Feature importance and SHAP explanations
 - Model saving, deployment, and latency comparison
 
+## Part 3 — AutoGluon end-to-end ML with metrics
+
+- AutoML baseline comparison
+- Binary classification with ROC-AUC, PR-AUC, F1, calibration, and thresholds
+- Regression and quantile regression
+- Time-series forecasting and Chronos comparison
+- Text-feature handling and multimodal fallback behavior
+- Model ensembles, stacking, hyperparameter search, and distillation
+- Deployment cloning, inference latency, and resource limits
+- Feature drift, PSI monitoring, segment analysis, and data-quality checks
+
 ## Verification
 
 The K-means notebook was executed in an independent Google Colab runtime:
@@ -75,7 +87,10 @@ The AutoGluon notebook was also executed in Google Colab:
 - The image-classification report was corrected to format text and numeric columns separately
 - The MITRA foundation-model section records a memory fallback rather than claiming a completed run
 
+The AutoGluon Zero-to-Hero notebook was executed in Google Colab. The dependency-install cell contains a recorded interruption because AutoGluon was already installed; the remaining 105 code cells contain saved outputs and the end-to-end sections completed.
+
 ## Videos
 
 - Part 1: [K-means clustering and variations](https://youtu.be/cxHYL6YLP_c)
 - Part 2: [AutoGluon capabilities landscape](https://youtu.be/Ear5T0tX-PI)
+- Part 3: [AutoGluon end-to-end ML with metrics](https://youtu.be/duZB_augdOI)

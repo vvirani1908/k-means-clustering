@@ -9,3 +9,8 @@
 
 - Title: AutoGluon Explained: Classification, Regression, Time Series, Text, Images, and Deployment
 - YouTube link: https://youtu.be/Ear5T0tX-PI
+
+## Part 3 — AutoGluon end-to-end ML with metrics
+
+- Title: AutoGluon From Zero to Hero: AutoML, Metrics, Deployment, and Monitoring
+- YouTube link: https://youtu.be/duZB_augdOI
