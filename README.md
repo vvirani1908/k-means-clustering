@@ -17,6 +17,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 2 | AutoGluon capabilities landscape | [02_autogluon_capabilities_tour.ipynb](notebooks/02_autogluon_capabilities_tour.ipynb) | [Watch video](https://youtu.be/Ear5T0tX-PI) |
 | 3 | AutoGluon end-to-end ML with metrics | [03_autogluon_zero_to_hero.ipynb](notebooks/03_autogluon_zero_to_hero.ipynb) | [Watch video](https://youtu.be/duZB_augdOI) |
 | 4 | NVIDIA RAPIDS CPU/GPU comparison | [04_nvidia_rapids_zero_to_hero.ipynb](notebooks/04_nvidia_rapids_zero_to_hero.ipynb) | [Watch video](https://youtu.be/-xa0LcwWo4k) |
+| 5 | PyCaret capabilities landscape | [05_pycaret_capabilities_tour.ipynb](notebooks/05_pycaret_capabilities_tour.ipynb) | [Watch video](https://youtu.be/aXdwTwDWvwI) |
 
 ## Assignment parts
 
@@ -26,7 +27,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 2 | AutoGluon capabilities landscape | Completed |
 | 3 | AutoGluon end-to-end ML with metrics | Completed; video added |
 | 4 | NVIDIA RAPIDS CPU/GPU comparison | Completed; video added |
-| 5 | PyCaret capabilities landscape | Pending |
+| 5 | PyCaret capabilities landscape | Completed; video added |
 | 6 | PyCaret MLOps | Pending |
 
 ## Part 1 — K-means clustering and variations
@@ -97,9 +98,17 @@ The NVIDIA RAPIDS notebook was executed successfully:
 - No saved error outputs
 - Covers cuDF, cuML, clustering, XGBoost, cuGraph, and MLOps workflows
 
+The PyCaret capabilities notebook was executed successfully:
+
+- 94 code cells
+- 94 code cells contain saved outputs
+- No saved error outputs
+- Covers classification, regression, ensembles, fraud detection, clustering, anomaly detection, time series, text, interpretability, and deployment
+
 ## Videos
 
 - Part 1: [K-means clustering and variations](https://youtu.be/cxHYL6YLP_c)
 - Part 2: [AutoGluon capabilities landscape](https://youtu.be/Ear5T0tX-PI)
 - Part 3: [AutoGluon end-to-end ML with metrics](https://youtu.be/duZB_augdOI)
 - Part 4: [NVIDIA RAPIDS CPU/GPU comparison](https://youtu.be/-xa0LcwWo4k)
+- Part 5: [PyCaret capabilities landscape](https://youtu.be/aXdwTwDWvwI)

@@ -19,3 +19,8 @@
 
 - Title: NVIDIA RAPIDS From Zero to Hero: GPU Data Science with cuDF, cuML, cuGraph & XGBoost
 - YouTube link: https://youtu.be/-xa0LcwWo4k
+
+## Part 5 — PyCaret capabilities landscape
+
+- Title: PyCaret Capabilities Tour: Classification, Regression, Clustering, Forecasting, Text & Deployment
+- YouTube link: https://youtu.be/aXdwTwDWvwI
