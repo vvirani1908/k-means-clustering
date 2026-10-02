@@ -16,6 +16,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 1 | K-means clustering and variations | [01_kmeans_clustering.ipynb](notebooks/01_kmeans_clustering.ipynb) | [Watch video](https://youtu.be/cxHYL6YLP_c) |
 | 2 | AutoGluon capabilities landscape | [02_autogluon_capabilities_tour.ipynb](notebooks/02_autogluon_capabilities_tour.ipynb) | [Watch video](https://youtu.be/Ear5T0tX-PI) |
 | 3 | AutoGluon end-to-end ML with metrics | [03_autogluon_zero_to_hero.ipynb](notebooks/03_autogluon_zero_to_hero.ipynb) | [Watch video](https://youtu.be/duZB_augdOI) |
+| 4 | NVIDIA RAPIDS CPU/GPU comparison | [04_nvidia_rapids_zero_to_hero.ipynb](notebooks/04_nvidia_rapids_zero_to_hero.ipynb) | [Watch video](https://youtu.be/-xa0LcwWo4k) |
 
 ## Assignment parts
 
@@ -24,7 +25,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 1 | K-means clustering and variations | Completed |
 | 2 | AutoGluon capabilities landscape | Completed |
 | 3 | AutoGluon end-to-end ML with metrics | Completed; video added |
-| 4 | NVIDIA RAPIDS CPU/GPU comparison | Pending notebook upload |
+| 4 | NVIDIA RAPIDS CPU/GPU comparison | Completed; video added |
 | 5 | PyCaret capabilities landscape | Pending |
 | 6 | PyCaret MLOps | Pending |
 
@@ -88,6 +89,13 @@ The AutoGluon notebook was also executed in Google Colab:
 - The MITRA foundation-model section records a memory fallback rather than claiming a completed run
 
 The AutoGluon Zero-to-Hero notebook was executed in Google Colab. The dependency-install cell contains a recorded interruption because AutoGluon was already installed; the remaining 105 code cells contain saved outputs and the end-to-end sections completed.
+
+The NVIDIA RAPIDS notebook was executed successfully:
+
+- 118 code cells
+- 117 code cells contain saved outputs
+- No saved error outputs
+- Covers cuDF, cuML, clustering, XGBoost, cuGraph, and MLOps workflows
 
 ## Videos
 
