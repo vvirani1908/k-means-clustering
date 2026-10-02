@@ -24,7 +24,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 1 | K-means clustering and variations | Completed |
 | 2 | AutoGluon capabilities landscape | Completed |
 | 3 | AutoGluon end-to-end ML with metrics | Completed; video added |
-| 4 | NVIDIA RAPIDS CPU/GPU comparison | Pending |
+| 4 | NVIDIA RAPIDS CPU/GPU comparison | Pending notebook upload |
 | 5 | PyCaret capabilities landscape | Pending |
 | 6 | PyCaret MLOps | Pending |
 
@@ -94,3 +94,4 @@ The AutoGluon Zero-to-Hero notebook was executed in Google Colab. The dependency
 - Part 1: [K-means clustering and variations](https://youtu.be/cxHYL6YLP_c)
 - Part 2: [AutoGluon capabilities landscape](https://youtu.be/Ear5T0tX-PI)
 - Part 3: [AutoGluon end-to-end ML with metrics](https://youtu.be/duZB_augdOI)
+- Part 4: [NVIDIA RAPIDS CPU/GPU comparison](https://youtu.be/-xa0LcwWo4k)

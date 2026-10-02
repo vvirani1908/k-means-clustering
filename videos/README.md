@@ -14,3 +14,8 @@
 
 - Title: AutoGluon From Zero to Hero: AutoML, Metrics, Deployment, and Monitoring
 - YouTube link: https://youtu.be/duZB_augdOI
+
+## Part 4 — NVIDIA RAPIDS CPU/GPU comparison
+
+- Title: NVIDIA RAPIDS From Zero to Hero: GPU Data Science with cuDF, cuML, cuGraph & XGBoost
+- YouTube link: https://youtu.be/-xa0LcwWo4k
