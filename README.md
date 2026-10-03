@@ -18,6 +18,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 3 | AutoGluon end-to-end ML with metrics | [03_autogluon_zero_to_hero.ipynb](notebooks/03_autogluon_zero_to_hero.ipynb) | [Watch video](https://youtu.be/duZB_augdOI) |
 | 4 | NVIDIA RAPIDS CPU/GPU comparison | [04_nvidia_rapids_zero_to_hero.ipynb](notebooks/04_nvidia_rapids_zero_to_hero.ipynb) | [Watch video](https://youtu.be/-xa0LcwWo4k) |
 | 5 | PyCaret capabilities landscape | [05_pycaret_capabilities_tour.ipynb](notebooks/05_pycaret_capabilities_tour.ipynb) | [Watch video](https://youtu.be/aXdwTwDWvwI) |
+| 6 | PyCaret end-to-end ML and MLOps | [06_pycaret_zero_to_hero.ipynb](notebooks/06_pycaret_zero_to_hero.ipynb) | [Watch video](https://youtu.be/39aNN6Valec) |
 
 ## Assignment parts
 
@@ -28,7 +29,7 @@ This repository contains the completed work for the machine-learning capabilitie
 | 3 | AutoGluon end-to-end ML with metrics | Completed; video added |
 | 4 | NVIDIA RAPIDS CPU/GPU comparison | Completed; video added |
 | 5 | PyCaret capabilities landscape | Completed; video added |
-| 6 | PyCaret MLOps | Pending |
+| 6 | PyCaret MLOps | Completed; video added |
 
 ## Part 1 — K-means clustering and variations
 
@@ -105,6 +106,13 @@ The PyCaret capabilities notebook was executed successfully:
 - No saved error outputs
 - Covers classification, regression, ensembles, fraud detection, clustering, anomaly detection, time series, text, interpretability, and deployment
 
+The PyCaret Zero-to-Hero notebook was executed with no saved error outputs:
+
+- 137 code cells
+- 133 code cells contain saved outputs
+- 4 optional late-stage cells have no saved output
+- Covers the end-to-end lifecycle, preprocessing, classification, regression, tuning, interpretability, clustering, anomaly detection, time series, deployment, monitoring, and diagnostics
+
 ## Videos
 
 - Part 1: [K-means clustering and variations](https://youtu.be/cxHYL6YLP_c)
@@ -112,3 +120,4 @@ The PyCaret capabilities notebook was executed successfully:
 - Part 3: [AutoGluon end-to-end ML with metrics](https://youtu.be/duZB_augdOI)
 - Part 4: [NVIDIA RAPIDS CPU/GPU comparison](https://youtu.be/-xa0LcwWo4k)
 - Part 5: [PyCaret capabilities landscape](https://youtu.be/aXdwTwDWvwI)
+- Part 6: [PyCaret end-to-end ML and MLOps](https://youtu.be/39aNN6Valec)

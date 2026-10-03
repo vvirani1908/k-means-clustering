@@ -24,3 +24,8 @@
 
 - Title: PyCaret Capabilities Tour: Classification, Regression, Clustering, Forecasting, Text & Deployment
 - YouTube link: https://youtu.be/aXdwTwDWvwI
+
+## Part 6 — PyCaret end-to-end ML and MLOps
+
+- Title: PyCaret From Zero to Hero: End-to-End Machine Learning, Deployment & Monitoring
+- YouTube link: https://youtu.be/39aNN6Valec
