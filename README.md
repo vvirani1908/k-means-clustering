@@ -26,9 +26,9 @@ This repository contains the completed work for the machine-learning capabilitie
 |---|---|---|
 | 1 | K-means clustering and variations | Completed |
 | 2 | AutoGluon capabilities landscape | Completed |
-| 3 | AutoGluon end-to-end ML with metrics | Completed; video added |
-| 4 | NVIDIA RAPIDS CPU/GPU comparison | Completed; video added |
-| 5 | PyCaret capabilities landscape | Completed; video added |
+| 3 | AutoGluon end-to-end ML with metrics | Completed |
+| 4 | NVIDIA RAPIDS CPU/GPU comparison | Completed |
+| 5 | PyCaret capabilities landscape | Completed |
 | 6 | PyCaret MLOps | Completed; video added |
 
 ## Part 1 — K-means clustering and variations
